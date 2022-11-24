@@ -4,7 +4,7 @@ import {HashLoader} from 'react-spinners'
 
 
 export const Repos = ({repos,loading}) => {
-
+    
     if(loading){
         return(
             <HashLoader loading  color="rgba(54, 215, 183, 1)"/>

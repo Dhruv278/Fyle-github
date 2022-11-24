@@ -15,7 +15,7 @@ export const SearchBar = () => {
       </div>
       
       
-      <Link type="submit" class="btn btn-primary" style={{width:"80px"}} to={`/profile/${userName}`}>Submit</Link>
+      <Link type="submit" class="btn btn-primary" style={{width:"117px"}} to={`/profile/${userName}`}>Submit</Link>
     </form>
   )
 }
